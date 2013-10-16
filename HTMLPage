@@ -1,6 +1,11 @@
 <?php
 
 namespace view;
+/**
+ * Class HTMLPAGE
+ * class-level Html with time  
+ * @package default
+ */
 
 class HTMLPage {
 	
@@ -26,5 +31,4 @@ class HTMLPage {
 		</html>';
 	}
 
-}
-?>
+}//END class
